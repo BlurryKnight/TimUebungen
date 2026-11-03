@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+        }
+
+        static void Aufgabe1()
+        {
+            int year = 0;
         }
     }
 }
